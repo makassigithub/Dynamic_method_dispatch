@@ -19,7 +19,7 @@ public class Test {
     
     Person r;// Rference of type Person
     
-    // Now, let's see what version of the createPerson() is call on the above object.
+    // Now, let's see what version of the createPerson() is call on the above objects.
     r = person; // This reference points to a person object
     r.createPerson();
     
