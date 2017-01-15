@@ -20,13 +20,13 @@ public class Test {
     Person r;// Rference of type Person
     
     // Now, let's see what version of the createPerson() is call on the above objects.
-    r = person; // This reference points to a person object
+    r = person; // This reference is of type person
     r.createPerson();
     
-    r = man;// This reference points to a amn object
+    r = man;// This reference is of type man
     r.createPerson();
     
-    r = woman;// This reference points to a woman object
+    r = woman;// This reference is of type woman
     r.createPerson();
     
 /*  The output of the this program is
