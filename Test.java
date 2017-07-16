@@ -40,7 +40,6 @@ public class Test {
     DYNAMIC METHOD DISPACH that is one of the powers of JAVA language
     */
 
-    }
-    
+    }  
 }
 
